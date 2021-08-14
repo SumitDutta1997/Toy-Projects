@@ -6,6 +6,3 @@
 
 4. Tic Tac Toe is the first milestone project I worked on while completing the course "Complete Python Bootcamp: Go from zero to hero in Python3" by Jose Portilla from Udemy.
 
-5. Black Jack game is the second milestone project I worked on while completing the course "Complete Python Bootcamp: Go from zero to hero in Python3" by Jose Portilla from Udemy.
-
-6. Bank Account Manager is the third milestone project I worked on while completing the course "Complete Python Bootcamp: Go from zero to hero in Python3" by Jose Portilla from Udemy.
