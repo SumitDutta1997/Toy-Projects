@@ -52,8 +52,8 @@ void Instructions()
     cout << "1.There are 4 cards : Jack Queen King ACE" << endl;
     cout << "2.Computer Shuffles these cards randomly." << endl;
     cout << "3.Player has to Guess the position of ACE." << endl;
-    cout << "4.If the player guesses right , he wins 3*bet amount." << endl;
-    cout << "5.If the player guesses wrong , he simply looses the bet amount." << endl;
+    cout << "4.If the player guesses right , player wins 3*bet amount." << endl;
+    cout << "5.If the player guesses wrong , player simply looses the bet amount." << endl;
     cout << "6.Player has Rs100 initially." << endl;
     cout << "_______________________________________________________________________________" << endl << endl;
 }
