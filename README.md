@@ -6,3 +6,4 @@
 
 4. Tic Tac Toe is the first milestone project I worked on while completing the course "Complete Python Bootcamp: Go from zero to hero in Python3" by Jose Portilla from Udemy.
 
+5. Few famous and advance problems on backtracking algo like Sudoku Problem , Rat in a maze , N-Queen Problem etc.
